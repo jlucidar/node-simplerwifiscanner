@@ -2,7 +2,7 @@
 	"name" : "node-simplerwifiscanner",
     "version" : "0.1.1",
     "description" : "Scan surrounding WiFi access points",
-    "author": "jlucidar>",
+    "author": "jlucidar <jlucidar@gmail.com>",
     "main": "./lib/wifiscanner",
     "repository": {
         "type": "git",
