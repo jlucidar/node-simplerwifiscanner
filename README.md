@@ -1,5 +1,11 @@
 # node WiFiScanner
 
+## This version is a simpler version of the wifiscanner
+It only return the mac address, the ESSID, the signal strenght and the security (wpa,wep,none) of a Wifi AP.  
+
+The above documentation and the majority of the code have been written by [Maurice Svay](https://github.com/mauricesvay/node-wifiscanner)
+
+
 ## Installing
 
     npm install node-wifiscanner
